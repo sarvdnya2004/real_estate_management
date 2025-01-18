@@ -1,0 +1,1 @@
+This MySQL real estate management project is designed to provide a comprehensive solution for showcasing properties, managing listings, and facilitating communication between builders and investors. It utilizes a relational database to streamline data handling and operations, enhancing efficiency in property management tasks.
